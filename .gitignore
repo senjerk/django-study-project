@@ -1,0 +1,6 @@
+# Default ignored files
+/venv/
+/projabc/characters/__pycache__
+/projabc/__pycache__
+/projabc/projabc/
+/.idea
